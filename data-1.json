@@ -1,0 +1,12 @@
+{
+  "header": {
+    "device": "raspberry-pi",
+    "version": "1.0"
+  },
+  "data": {
+    "temperature": 25.5,
+    "humidity": 60,
+    "pressure": 1013.25,
+    "timestamp": 1645870226
+  }
+}
